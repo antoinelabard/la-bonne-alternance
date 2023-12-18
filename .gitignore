@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+db.json
+
+/.cache
+/build
+/public/build
+.env
+.idea/
