@@ -1,4 +1,6 @@
-# Welcome to La Bonne Alternance!
+# La Bonne Alternance
+
+This application retrieves internship job offers from the official government API. It is made with React and Remix.
 
 ## Development
 
